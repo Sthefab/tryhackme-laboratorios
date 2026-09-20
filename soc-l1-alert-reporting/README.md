@@ -40,7 +40,7 @@ Praticar a escrita de relatórios de alerta para o L2, seguindo os 5 Ws (quem, o
 **Ação recomendada:** colocar o e-mail em quarentena, bloquear o remetente e verificar se o anexo foi aberto, escalando para o L2 caso tenha sido.
 
 ### Print
-![Alerta 1](imagens/alerta-1.png)
+![Alerta 1](imagens/alerta-01.png)
 
 ---
 
@@ -63,7 +63,7 @@ Praticar a escrita de relatórios de alerta para o L2, seguindo os 5 Ws (quem, o
 **Ação recomendada:** isolar o servidor imediatamente e escalar para o L2 verificar se o atacante chegou a outros sistemas.
 
 ### Print
-![Alerta 2](imagens/alerta-2.png)
+![Alerta 2](imagens/alerta-02.png)
 
 ---
 

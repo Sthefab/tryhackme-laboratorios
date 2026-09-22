@@ -12,6 +12,7 @@ Praticar as bases do trabalho de um analista de SOC N1 (triagem de alertas, leit
 |---|---|---|
 | [SOC L1 Alert Triage](soc-l1-alert-triage) | Triagem de alertas, True Positive vs False Positive | Concluído |
 | [SOC L1 Alert Reporting](soc-l1-alert-reporting) | Relatório de alertas com os 5 Ws e escalonamento | Concluído |
+| [Introduction to Phishing](introduction-to-phishing) | Investigação de phishing no Splunk (SOC Simulator) | Concluído |
 
 Vou adicionando novas pastas conforme avanço na trilha.
 
